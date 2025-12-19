@@ -1,4 +1,0 @@
-# Ensure Postgres provider is available for PostgresHook
-apache-airflow-providers-postgres>=5.7.0
-# requests is used to call Open-Meteo directly
-requests>=2.31.0
